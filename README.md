@@ -1,5 +1,6 @@
 Phalcon MVC examples
 ====================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/stanleer/mvc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Those are examples of possible MVC file structures using Phalcon >= 0.5.x
 
